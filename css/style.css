@@ -15,12 +15,23 @@ h2 {
 .bg-primary-darkblue {
     background-color: #0d28a6;
 }
+.our-service-checklist{
+    width: 24px;
+    height: 24px;
+}
+.why-us-icon{
+    width: 32px;
+    height: 32px;
+}
 .testimonial-img {
     width: 80px;
     height: 80px;
 }
 .testimonial-rating {
     max-height: 16px;
+}
+.testimonial-carausel{
+    max-width: 60%;
 }
 .testimonial-name {
     font-weight: bold;
